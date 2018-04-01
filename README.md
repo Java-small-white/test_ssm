@@ -1,7 +1,8 @@
 # test_ssm
 一个简化版的电商网站,From 小白的2018毕业设计。
+
 # 数据库表设计
-![Image text]https://github.com/Java-small-white/test_ssm/blob/master/mysql%20E-R.PNG?raw=true
+![Image]https://github.com/Java-small-white/test_ssm/blob/master/mysql%20E-R.PNG?raw=true
 
 ![Image text]：数据库E-R图
 
